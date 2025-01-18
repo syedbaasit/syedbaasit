@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Baasit
-- 👀 I’m a civil Engineering UG in the National Institute OF technology.
+- 👀 I’m a civil Engineering UG in the National Institute Of Technology.
 - I work primarily in Python pertaining to data analysis in Hydrology
 
 - Lets connect on linkedin! 
